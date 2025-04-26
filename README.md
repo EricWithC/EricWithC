@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricWithC
 - 👀 I’m interested in Web Development, Automation and Robots
-- 🌱 I’m currently learning Python, more specifically flask, C/C++ and PHP
+- 🌱 Making websites, among other stuff, and learning along the way
 
 
 <!---
